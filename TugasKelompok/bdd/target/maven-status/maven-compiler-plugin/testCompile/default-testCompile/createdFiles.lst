@@ -1,0 +1,4 @@
+starter\CucumberTestSuite.class
+starter\pages\HomePage.class
+starter\stepdefinitions\FormSteps.class
+starter\pages\FormPage.class
